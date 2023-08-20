@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.327fb353.js",
-    "static/js/787.d05e50a6.chunk.js": "/static/js/787.d05e50a6.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.327fb353.js.map": "/static/js/main.327fb353.js.map",
-    "787.d05e50a6.chunk.js.map": "/static/js/787.d05e50a6.chunk.js.map"
+    "main.css": "/chartDesign.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/chartDesign.github.io/static/js/main.2388f53a.js",
+    "static/js/787.d05e50a6.chunk.js": "/chartDesign.github.io/static/js/787.d05e50a6.chunk.js",
+    "static/media/logo.svg": "/chartDesign.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chartDesign.github.io/index.html",
+    "main.073c9b0a.css.map": "/chartDesign.github.io/static/css/main.073c9b0a.css.map",
+    "main.2388f53a.js.map": "/chartDesign.github.io/static/js/main.2388f53a.js.map",
+    "787.d05e50a6.chunk.js.map": "/chartDesign.github.io/static/js/787.d05e50a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.327fb353.js"
+    "static/js/main.2388f53a.js"
   ]
 }
